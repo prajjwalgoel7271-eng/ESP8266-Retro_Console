@@ -2,7 +2,7 @@
 
 A **multi‑game retro arcade console** built using **ESP8266 + 128×64 OLED**, featuring **12 classic mini‑games**, sound effects, pause system, and a clean menu UI.
 
-> Built for learning, fun, and flexing on GitHub 😎
+> Built for learning and fun.
 
 ---
 
