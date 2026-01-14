@@ -1,6 +1,6 @@
 # 🎮 ESP8266 OLED Retro Arcade Console
 
-![Game Screenshot](game.jpg)
+![Game Screenshot](game.png)
 
 
 A **multi‑game retro arcade console** built using **ESP8266 + 128×64 OLED**, featuring **12 classic mini‑games**, sound effects, pause system, and a clean menu UI.
